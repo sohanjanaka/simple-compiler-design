@@ -1,0 +1,20 @@
+total 516
+drwxrwxr-x 3 sohan sohan   4096 Oct  7 10:27 bin
+-rwxrwxr-x 1 sohan sohan    111 Sep 30 15:06 build.sh
+-rwxrwxr-x 1 sohan sohan     70 Sep 30 15:06 clean.sh
+-rw-rw-r-- 1 sohan sohan   1892 Sep 30 15:53 doorlock.c
+-rwxr-xr-x 1 sohan sohan  29112 Oct  3 22:17 doorlock_exec
+-rw-rw-r-- 1 sohan sohan    768 Sep 29 12:36 doorlock.h
+-rw-rw-r-- 1 sohan sohan    476 Oct  1 12:27 doorlock.l
+-rw-rw-r-- 1 sohan sohan   2322 Oct  1 12:17 doorlock.y
+-rwxrwxrwx 1 root  root      13 Oct  7 11:17 input.txt
+-rw-rw-r-- 1 sohan sohan 131647 Oct  6 00:09 jgoodies-forms-1.8.0.jar
+-rw-rw-r-- 1 sohan sohan 174206 Oct  6 00:09 jgoodies-forms-1.8.0-sources.jar
+-rw-r--r-- 1 sohan sohan  46085 Oct  3 22:17 lex.yy.c
+-rw-r--r-- 1 sohan sohan  25360 Oct  3 22:17 lex.yy.o
+-rwxrwxrwx 1 root  root      25 Oct  7 10:39 output.txt
+drwxrwxr-x 3 sohan sohan   4096 Oct  5 22:36 src
+-rw-rw-r-- 1 sohan sohan      0 Oct  7 11:19 test.txt
+-rw-r--r-- 1 sohan sohan  46113 Oct  3 22:17 y.tab.c
+-rw-r--r-- 1 sohan sohan   2512 Oct  3 22:17 y.tab.h
+-rw-r--r-- 1 sohan sohan   8728 Oct  3 22:17 y.tab.o
